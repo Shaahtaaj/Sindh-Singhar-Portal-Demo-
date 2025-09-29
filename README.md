@@ -120,8 +120,6 @@ The Sindh Seenghar Portal is a PHP/MySQL web platform that helps Sindh-based sch
 
 ## License
 
-Specify your project license here (e.g., MIT). If none is chosen, consider adding one before opening the repository to the public.
-
----
+All Rights are Reserved to @Shaahtaaj
 
 For questions or suggestions, open an issue or reach out to the maintainers listed in your GitHub organization.
